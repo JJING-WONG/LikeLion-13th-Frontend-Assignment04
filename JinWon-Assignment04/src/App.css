@@ -1,0 +1,10 @@
+.box {
+  width: 100%;
+}
+
+button {
+  font-size: 30px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 400px;
+}
